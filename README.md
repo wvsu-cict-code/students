@@ -6,3 +6,4 @@ Students' repository for practicing doing pull requests. See [the example file](
 * [GitHub Learning Lab](https://lab.github.com/courses)
 * [Student Developer Pack](https://education.github.com/pack)
 * [Git Tutorials, Workflows and Commands](https://www.atlassian.com/git)
+* [Git Hosting Comparisons](https://www.git-tower.com/blog/git-hosting-services-compared/)
