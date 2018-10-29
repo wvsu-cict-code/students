@@ -7,3 +7,7 @@ Students' repository for practicing doing pull requests. See [the example file](
 * [Student Developer Pack](https://education.github.com/pack)
 * [Git Tutorials, Workflows and Commands](https://www.atlassian.com/git)
 * [Git Hosting Comparisons](https://www.git-tower.com/blog/git-hosting-services-compared/)
+
+## Advanced
+* [Contribute to Open Source ](https://opensource.guide/how-to-contribute/)
+* Help develop our [college website](https://github.com/wvsu-cict-code/cict-online)
